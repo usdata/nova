@@ -1,6 +1,7 @@
 # Some Inspiring Links:
 https://www.virgin.com/richard-branson/keep-working-while-you-build-your-dream
-
+### Is your reaction helping the situation?
+https://www.virgin.com/richard-branson/your-reaction-helping-situation-0
 
 
 # DevOps Links:
